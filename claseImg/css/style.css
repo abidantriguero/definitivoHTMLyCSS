@@ -1,0 +1,27 @@
+h1 {
+    color: #121f3d;
+    font-family: sans-serif;
+}
+
+p {
+    color: #121f3d;
+    font-family: sans-serif;
+}
+
+body {
+    color: #121f3d;
+    font-family: sans-serif;
+    font-size: larger;
+    }
+
+img {
+    border-radius: 50%;
+}
+
+#categorias {
+    font-size: x-large;
+}
+
+main {
+    column-count: 3;
+}
