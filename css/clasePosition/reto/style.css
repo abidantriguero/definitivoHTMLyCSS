@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 70.5%;
+  }
+.parent {
+    width: 100vw;
+    height: 100vh;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#one {
+    width: 35%;
+    padding: 2rem;
+    background-color: red;
+    margin: 0 auto;
+    font-size: 1.3rem;
+    text-align: center;
+    border-radius: 1rem;
+    position:relative;
+    top: 13rem;
+
+}
+#two {
+    width: 60%;
+    min-height: 1rem;
+    padding: 8rem 5rem;
+    background-color: lightgray;
+    margin: 10rem auto;
+    font-size: 1.3rem;
+    text-align:justify;
+    border-radius: 3rem;
+}
